@@ -1,0 +1,9 @@
+{
+  "name": "2fastring",
+  "version": "1.0.0",
+  "description": "2fa string is a generator I made to easily generate string for 2FA,",
+  "main": "index.js",
+
+  "author": "giraffesummer",
+  "license": "ISC"
+}
